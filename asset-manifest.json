@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/chloemaivu/test-todo/static/css/main.a67f6f87.css",
-    "main.js": "/chloemaivu/test-todo/static/js/main.d33968d5.js",
-    "static/js/787.9d0b9c31.chunk.js": "/chloemaivu/test-todo/static/js/787.9d0b9c31.chunk.js",
-    "index.html": "/chloemaivu/test-todo/index.html",
-    "main.a67f6f87.css.map": "/chloemaivu/test-todo/static/css/main.a67f6f87.css.map",
-    "main.d33968d5.js.map": "/chloemaivu/test-todo/static/js/main.d33968d5.js.map",
-    "787.9d0b9c31.chunk.js.map": "/chloemaivu/test-todo/static/js/787.9d0b9c31.chunk.js.map"
+    "main.css": "/test-todo/static/css/main.a67f6f87.css",
+    "main.js": "/test-todo/static/js/main.72e828c8.js",
+    "static/js/787.9d0b9c31.chunk.js": "/test-todo/static/js/787.9d0b9c31.chunk.js",
+    "index.html": "/test-todo/index.html",
+    "main.a67f6f87.css.map": "/test-todo/static/css/main.a67f6f87.css.map",
+    "main.72e828c8.js.map": "/test-todo/static/js/main.72e828c8.js.map",
+    "787.9d0b9c31.chunk.js.map": "/test-todo/static/js/787.9d0b9c31.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a67f6f87.css",
-    "static/js/main.d33968d5.js"
+    "static/js/main.72e828c8.js"
   ]
 }
